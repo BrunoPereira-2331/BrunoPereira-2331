@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bruno</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Passionate by Flutter, enthusiast for new challenges and a good taster of ☕.</h3>
 
 - 📚 I’m currently learning **Flutter and Firebase**
+- 👔 Working as a PHP Developer and also as a Mobile Developer in Brudam.
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
