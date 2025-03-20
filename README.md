@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Passionate by Flutter, enthusiast for new challenges and a good taster of ☕.</h3>
+<h3 align="center">Passionate by Angular & Flutter, enthusiast for new challenges and a good taster of ☕.</h3>
 
 - 👔 Working as a Mobile Developer at Brudam.
 
