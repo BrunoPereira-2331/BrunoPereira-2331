@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Passionate by Angular & Flutter, enthusiast for new challenges and a good taster of ☕.</h3>
 
-- 👔 Working as a Mobile Developer at Brudam.
+- 👔 Working as a Full Stack Developer at Brudam.
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
